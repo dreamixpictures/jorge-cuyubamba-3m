@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /my3m/
+Disallow: /wps/myportal/
+Disallow: /3M/es_PE/inicio/buscar/
+
+Sitemap: ../../../sitemap.xml
+
+# Last edited by TYano 08/22/2019
